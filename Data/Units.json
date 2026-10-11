@@ -1,0 +1,47 @@
+{
+  "units": [
+    {
+      "unit_id": 1,
+      "unit_title": "Trials and Triumphs",
+      "lessons": [
+        {
+          "id": "1.1",
+          "title": "A Very Old Man With Enormous Wings",
+          "author": "Gabriel García Márquez",
+          "genre": "Short Story",
+          "summary": "An old man with battered wings lands in a courtyard after a storm, prompting reflection on human greed, sympathy, and curiosity.",
+          "glossary": [
+            {"term": "Stupendous", "meaning": "Extremely impressive or amazing"},
+            {"term": "Magnanimous", "meaning": "Generous or forgiving"}
+          ],
+          "key_discourses": ["Character Sketch", "News Report", "Diary Entry"],
+          "grammar_focus": ["Reported Speech", "Relative Clauses"]
+        },
+        {
+          "id": "1.2",
+          "title": "In the Attic",
+          "author": "Satyajit Ray",
+          "genre": "Short Story",
+          "summary": "A nostalgic story exploring childhood memories and emotional connections across time.",
+          "glossary": [
+            {"term": "Nostalgia", "meaning": "Sentimental longing for the past"}
+          ],
+          "key_discourses": ["Personal Narrative", "Letter Writing"],
+          "grammar_focus": ["Past Tense Patterns", "Phrasal Verbs"]
+        },
+        {
+          "id": "1.3",
+          "title": "Friends, Romans, Countrymen...",
+          "author": "William Shakespeare",
+          "genre": "Speech / Drama",
+          "summary": "Mark Antony's iconic funeral speech demonstrating rhetoric and emotional persuasion.",
+          "glossary": [
+            {"term": "Grievous", "meaning": "Very severe or serious"}
+          ],
+          "key_discourses": ["Speech Presentation", "Dialogue Writing"],
+          "grammar_focus": ["Rhetorical Devices", "Inversion"]
+        }
+      ]
+    }
+  ]
+}
